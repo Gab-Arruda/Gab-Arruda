@@ -3,11 +3,10 @@
 ### Hello 👋, I'm Gabriel.
 
 
-- 🔭 I’m currently working at Nelogica as a web developer
-- 🌱 I’m currently learning Laravel and VueJs
-- 💬 Ask me about React
+- 🔭 I’m currently working at Nelogica as a web developer using VueJS and Laravel
+- 🌱 I’m currently learning NodeJS
+- 💬 Ask me about Laravel
 - 📫 Email: gabriel.a_s@hotmail.com
-- ⚡ Fun fact: Huge Zelda fan
 
  <div>
   <a href="https://github.com/Gab-Arruda">
