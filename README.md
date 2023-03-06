@@ -3,9 +3,8 @@
 ### Hello 👋, I'm Gabriel.
 
 
-- 🔭 I’m currently working at Nelogica as a web developer using VueJS and Laravel
 - 🌱 I’m currently learning NodeJS
-- 💬 Ask me about Laravel
+- 💬 Ask me about Laravel/Vue
 - 📫 Email: gabriel.a_s@hotmail.com
 
  <div>
