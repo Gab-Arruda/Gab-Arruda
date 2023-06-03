@@ -3,7 +3,7 @@
 ### Hello 👋, I'm Gabriel.
 
 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning .Net
 - 💬 Ask me about Laravel/Vue
 - 📫 Email: gabriel.a_s@hotmail.com
 
